@@ -4,7 +4,7 @@ Un projet pour apprendre &a utiliser GIT
 
 ## historique
 
-* v1.0 début du projet
+* v1.0 début du projet, ajout du fichier index.htmlgit status
 
 ## crédits
 
